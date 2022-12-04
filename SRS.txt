@@ -39,7 +39,18 @@ SRS
 		7.	Edit privacy options (selected audience to view the story, turning the commenting option on/off, share story to instagram)
 		
 
-3.	Messaging.	
+3.Messaging.
+
+	User can message friends, pages, bots or other facebook users who allow messages for user outside their friend list. User should be able to :
+		1.	See a list of "most recent" messages once the messagging page is opened. 
+		2.	Search the list by typing the the name on a textbox. 
+		3.	Selected a user to by tapping on their name, and the conversation history shows.
+		3.	Type a message in a textbox and send it to the user.
+		4.	Tap on the user name from the conversation page and block the user or view their profile.
+		5.	Access privacy and security settings, which controls (archived chats, message requests, message delivery)
+		
+		
+ 
 
 
 
