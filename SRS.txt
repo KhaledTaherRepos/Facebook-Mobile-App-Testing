@@ -1,0 +1,31 @@
+SRS
+
+1.Creating a post.
+	User should be able to create a post by writing his input in a text box that appears at the top of the page and post it with the “post” button or cancel it with the “x” button. From the “Create Post” page, the user should be able to: 
+		1.	Select the audience that the post will appear to. (e.g., only me, friends, public)
+		2.	Upload photo(s)/video(s) to be attached to the post.
+		3.	Tag people in the post (who will be notified of activities on the post as well).
+		4.	Select a custom background from a list of available backgrounds.
+		5.	Attach a label that describes the “feeling” or “activity” of the post.
+		6.	Add a check in to a specific location which a.
+		7.	Record a live video stream that appears instantly on his/her profile and notifies his/her friends once created.
+		8.	Choose a GIF from a list of available GIFs.
+		9.	Open the camera, take a picture with it, edit it, and seeing it attached on the post.
+		10.	Specify an event from a list of ongoing events. Once the post is created it should indicate that the user is attending this event.
+		11.	Select a layout from a list of available layouts and upload multiple pictures that fit into the selected layout.
+
+	After creation of the post:
+		1.	The user should be sent a notification describing any new activity on the post (e.g., react, comment or share) and the time/date of the activity.
+
+		2.	The user should be able to edit the post content.
+		3.	The user should be able to edit the post privacy (to whom it appears).
+		4.	The user should be able to delete the post by moving it to the “trash”.
+
+
+2.Creating a story.
+	User can create a story by clicking on the (Create story) button in the Stories tab. A list of options for the story should appear for the user to choose from (e.g., Text, Music, Green Screen, ...) 
+
+3.	Messaging.	
+
+
+
