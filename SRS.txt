@@ -48,7 +48,11 @@ SRS
 		3.	Type a message in a textbox and send it to the user.
 		4.	Tap on the user name from the conversation page and block the user or view their profile.
 		5.	Access privacy and security settings, which controls (archived chats, message requests, message delivery)
-		
+		6.	Archive conversation
+		7.	Delete a conversation
+		8.	Mute a conversation for a specific time
+		9.	See a list of active friends to chat with
+		10.	Create a new group chat
 		
  
 
