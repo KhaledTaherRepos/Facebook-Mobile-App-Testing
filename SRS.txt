@@ -36,7 +36,7 @@ SRS
 		5.	Add stickers. 
 		6.	Draw on the photo
 		7.	Tag people.
-		7.	Edit privacy options (selected audience to view the story, turning the commenting option on/off, share story to instagram)
+		8.	Edit privacy options (selected audience to view the story, turning the commenting option on/off, share story to instagram)
 		
 
 3.Messaging.
@@ -47,12 +47,21 @@ SRS
 		3.	Selected a user to by tapping on their name, and the conversation history shows.
 		3.	Type a message in a textbox and send it to the user.
 		4.	Tap on the user name from the conversation page and block the user or view their profile.
-		5.	Access privacy and security settings, which controls (archived chats, message requests, message delivery)
+		5.	Access archived conversations, spam and message requests.
 		6.	Archive conversation
 		7.	Delete a conversation
 		8.	Mute a conversation for a specific time
 		9.	See a list of active friends to chat with
 		10.	Create a new group chat
+		11.	Send a picture in a conversation from gallery or camera
+		12.	Send multiple pictures in a conversation from gallery
+		13.	Send a video from gallery or camera
+		14.	Send a vocie note 
+		15.	Forward a certain message to other user or users
+		16.	Make a voice call to user or group chat
+		17.	Make a video call to user or group chat
+		
+		
 		
  
 
