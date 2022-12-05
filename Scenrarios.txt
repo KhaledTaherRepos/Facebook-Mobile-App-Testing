@@ -1,0 +1,45 @@
+1.Creating a post.
+
+1.Check user can create a post with one picture from gallery
+2.Check user can create a post with multiple pictures
+3.Check user can create a post with a video
+4.Check user can create a post with tagged people in it
+5.Check user can select the audience the post will be showed to
+6.Check user can create a post with different baground color
+7.Check user can create a live stream post
+8.Check user can create a post with one picture from the camera
+9.Check user can create a post and add it to a certain album
+10.Check user can edit photo before creating a post
+
+2.Creating a story.
+
+1.Check user can create a text story
+2.Check user can create a music story
+3.Check user can create a green screen story (selfie from camera with custom background)
+4.Check user can create a boomerang story (short clip looped back and fourth)
+5.Check user can create a selfie story from camera
+6.Check user can create a story with one picture from gallery
+7.Check user can create a story with multiple pictures from gallery
+8.Check user can edit the selected picture while creating the story
+9.Check user can select the audience the story will be showed to
+10.Check user can create an "add yours" story (custom made story from the camera with different filters)
+
+3.Messaging.
+
+1.Check user can send a text message
+2.Check user can mute a conversation
+3.Check user can archive a conversation
+4.Check user can mark a conversation as read/unread
+5.Check user can send stickers
+6.Check user can send an emoji in text messages
+7.Check user can delete a conversation
+8.Check user can mute a conversation for a specific time
+9.Check user can see a list of active friends to chat with
+10.Check user can create a new group chat
+11.Check user can send a picture in a conversation from gallery or camera
+12.Check user can send multiple pictures in a conversation from gallery
+13.Check user can send a video from gallery or camera
+14.Check user can send a vocie note 
+15.Check user can forward a certain message to other user or users
+16.Check user can make a voice call to user or group chat
+17.Check user can make a video call to user or group chat
