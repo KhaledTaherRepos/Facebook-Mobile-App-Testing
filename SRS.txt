@@ -29,14 +29,14 @@ SRS
 		3.	Select a video to form the story.
 		
 	Once the photo(s) are selected, the user should be able to proceed to editing page where he/she can:
-		1.	Apply effects.
-		2.	Write text on the photo.
-		3.	Add music to play while the story is viewed.
-		4.	Add emojis.
-		5.	Add stickers. 
-		6.	Draw on the photo
-		7.	Tag people.
-		8.	Edit privacy options (selected audience to view the story, turning the commenting option on/off, share story to instagram)
+		4. The user should be able to proceed to editing page where he/she can: Apply effects.
+		5. The user should be able to proceed to editing page where he/she can: Write text on the photo.
+		6. The user should be able to proceed to editing page where he/she can: Add music to play while the story is viewed.
+		7. The user should be able to proceed to editing page where he/she can: Add emojis.
+		8. The user should be able to proceed to editing page where he/she can: Add stickers. 
+		9. The user should be able to proceed to editing page where he/she can: Draw on the photo
+		10. The user should be able to proceed to editing page where he/she can: Tag people.
+		11. The user should be able to proceed to editing page where he/she can: Edit privacy options (selected audience to view the story, turning the commenting option on/off, share story to instagram)
 		
 
 3.Messaging.
